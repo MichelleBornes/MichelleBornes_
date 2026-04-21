@@ -18,13 +18,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleBornes&layout=compact&bg_color=0D1117&title_color=970747&text_color=FFFFFF&hide_border=true"/>
 </div>
 
-
-<!-- STREAK -->
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MichelleBornes&background=FFFFFF&ring=970747&fire=FFFFFF&currStreakLabel=FFFFFF&hide_border=true"/>
-</div>
-
 ---
 
 <!-- TECNOLOGIAS -->

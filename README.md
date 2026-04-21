@@ -20,14 +20,5 @@
 
 ---
 
-<!-- TECNOLOGIAS -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Tecnologias"/>
-</p>
-
-<p align=center>
-  <img src="https://img.shields.io/badge/Python-970747?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-970747?style=for-the-badge&logo=c&logoColor=white">
-</p>
 
 

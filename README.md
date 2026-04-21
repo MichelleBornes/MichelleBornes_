@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=600&lines=Ciência+da+Computação"/>
 </p>
 
----
 
 <!-- STATS -->
 
@@ -19,7 +18,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleBornes&layout=compact&bg_color=0D1117&title_color=970747&text_color=FFFFFF&hide_border=true"/>
 </div>
 
----
 
 <!-- STREAK -->
 
@@ -35,14 +33,6 @@
   <img src="https://img.shields.io/badge/Python-970747?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-970747?style=for-the-badge&logo=c&logoColor=white">
 </p>
-
----
-
-<!-- SNAKE -->
-
-<div align="center">
-  <img src="https://github.com/MichelleBornes/MichelleBornes/blob/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
 ---
 

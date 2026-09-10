@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação, com previsão de conclusão em julho de 2027. Atualmente atuo como estagiária de Qualidade de Software (QA) na Vivo, participando de testes e validações de aplicações IPTV.
 
-Gosto de entender como os sistemas funcionam, aprender novas tecnologias e desenvolver soluções que resolvam problemas reais. Atualmente, estou aprofundando meus conhecimentos em algoritmos, Python, integrações de APIs com FastAPI, banco de dados (PostgreSQL) e Docker.
+Gosto de entender como os sistemas funcionam, aprender novas tecnologias e desenvolver soluções que resolvam problemas reais. Atualmente, estou aprofundando meus conhecimentos em algoritmos de Machine Learning, Python, integrações de APIs com FastAPI, banco de dados (PostgreSQL) e Docker.
   
 ##
 
